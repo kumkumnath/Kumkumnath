@@ -41,7 +41,7 @@
 
 ---
 
-## 📚 Coursework
+## Learnings
 
 - Machine Learning
 - Deep Learning
@@ -72,7 +72,7 @@ AI-powered application that analyzes YouTube video content using LLMs and APIs.
 and more
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning Architectures
