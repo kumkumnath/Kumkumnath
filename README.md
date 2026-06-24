@@ -1,36 +1,26 @@
-# Kumkum Nath
+Kumkum Nath 
 
-### AI & Machine Learning Engineer | Intelligent Systems & Applied AI
+**AI & ML Undergraduate | Applied AI & Intelligent Systems**
 
-Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, focused on developing intelligent systems through machine learning, deep learning, and agentic AI.
+Computer Science student specializing in Artificial Intelligence and Machine Learning, focused on building intelligent applications through machine learning, deep learning, and agentic AI. Interested in predictive systems, AI-powered automation, and real-world AI solutions.
 
-Building AI-powered applications, predictive models, and autonomous workflows while exploring real-world applications of modern artificial intelligence.
+### Tech Stack
 
-## Expertise
+**AI/ML:** Machine Learning • Deep Learning • Reinforcement Learning • Agentic AI
+**Languages:** Python • SQL
+**Development:** Flask • REST APIs • OpenAI API Integration
+**Tools:** Git • GitHub • Jupyter Notebook • Google Colab
 
-### Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Agentic AI Systems
-- Predictive Modeling
+### Featured Projects
 
-### Development
-- Python
-- Flask
-- REST APIs
-- OpenAI API Integration
+🔹 Loan Approval Prediction
+🔹 Heart Rate Prediction System
+🔹 SmartCart Recommendation System
+🔹 YouTube Video Analyzer
 
-### Data
-- SQL
-- Data Analysis
-- Data Preprocessing
-- Feature Engineering
+### Current Focus
 
-### Tools
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
+Building AI applications • Strengthening ML fundamentals • Solving LeetCode problems
 
 <!--
 **kumkumnath/Kumkumnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
