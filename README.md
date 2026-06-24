@@ -7,8 +7,11 @@ Computer Science student specializing in Artificial Intelligence and Machine Lea
 ### Tech Stack
 
 **AI/ML:** Machine Learning • Deep Learning • Reinforcement Learning • Agentic AI
+
 **Languages:** Python • SQL
+
 **Development:** Flask • REST APIs • OpenAI API Integration
+
 **Tools:** Git • GitHub • Jupyter Notebook • Google Colab
 
 ### Featured Projects
