@@ -1,86 +1,36 @@
-# Hi there, I'm Kumkum Nath 👋
+# Kumkum Nath
 
-## 🚀 About Me
+### AI & Machine Learning Engineer | Intelligent Systems & Applied AI
 
- B.Tech CSE (AI & ML) Student  
-📍 IPS Academy, Indore, India  
- Passionate about Artificial Intelligence, Machine Learning, and Agentic AI  
----
+Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, focused on developing intelligent systems through machine learning, deep learning, and agentic AI.
 
-# Technical Skills
+Building AI-powered applications, predictive models, and autonomous workflows while exploring real-world applications of modern artificial intelligence.
 
-### Programming Languages
-- Python
-- SQL
+## Expertise
 
-### Artificial Intelligence & Machine Learning
+### Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Reinforcement Learning
-- Agentic AI
-- Generative AI
-- Model Training & Evaluation
-- Data Preprocessing
-- Feature Engineering
+- Agentic AI Systems
+- Predictive Modeling
 
-### Development & Frameworks
+### Development
+- Python
 - Flask
 - REST APIs
 - OpenAI API Integration
 
-### Database Technologies
-- MySQL
-- SQL Database Management
+### Data
+- SQL
+- Data Analysis
+- Data Preprocessing
+- Feature Engineering
 
-### Tools & Platforms
+### Tools
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
-- VS Code
-- leetcode
-
----
-
-## Learnings
-
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Agentic AI Systems
-- Python Programming
-- Database Management Systems
-- API Development & Integration
-- Flask Web Development
-
----
-
-## 🔥 Projects
-
-### ❤️ Heart Rate Prediction System
-Machine learning model for predicting heart rate using health-related parameters.
-
-### 💰 Loan Approval Prediction
-Predictive analytics application that determines loan approval eligibility using ML algorithms.
-
-### 🛒 SmartCart Recommendation System
-Recommendation-based shopping assistant using machine learning techniques.
-
-### 🎥 YouTube Video Analyzer
-AI-powered application that analyzes YouTube video content using LLMs and APIs.
-
-
-and more
----
-
-## Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning Architectures
-- Agentic AI Systems
-- Data Structures & Algorithms
----
-
-⭐ Always learning, building, and exploring the future of AI.
 
 <!--
 **kumkumnath/Kumkumnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
