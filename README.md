@@ -16,7 +16,7 @@ Computer Science student specializing in Artificial Intelligence and Machine Lea
 
 ### Featured Projects
 
-🔹 Loan Approval Prediction
+🔹 AI Assistant
 🔹 Heart Rate Prediction System
 🔹 SmartCart Recommendation System
 🔹 YouTube Video Analyzer
